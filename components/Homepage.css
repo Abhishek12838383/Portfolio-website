@@ -1,0 +1,46 @@
+.hero{
+    display: flex;
+}
+
+.hero h1{
+    font-size: 48px;
+    width: 500px;
+    margin: 120px 210px 80px 80px;
+    
+}
+.hero-text span{
+    margin-left: 80px;
+}
+
+.hero P{
+font-size: 16px;
+width: 650px;
+color: grey;
+font-weight: 300;
+margin-left: 80px;
+margin-bottom: 80px;
+
+}
+.hire{
+    margin: 10px 256px 74px 60px;
+background-color: #ffb400;
+font-size: 18px;
+border: none;
+width: 150px;
+height: 50px;
+border-radius: 5px;
+margin-left: 80px;
+}
+
+.arrow{
+    width: 14px;
+    height: 14px;
+margin-top: 8px;
+}
+.hero-img img{
+
+    width: 500px;
+    height: 500px;
+    margin-right: 200px;
+    margin-top: 100px;
+}

@@ -1,0 +1,42 @@
+.navbar{
+    position: fixed;
+    width: 80px;
+    height: 768px;
+    background-color: rgb(212, 209, 209);
+    right: 0;
+}
+
+
+.circle-1{
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #ffb400;
+}
+.circle-2{
+    cursor: pointer;
+    margin-top: 43px;
+    margin-left: 15px;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #E4E6EB;
+}
+.circle-2:hover{
+    background-color: #ffb400;
+}
+.circle-1 span{
+    height: 18px;
+    width: 18px;
+    margin-left: 7px;
+    margin-top: 9px;
+}
+.circle-2 span{
+    height: 18px;
+    width: 18px;
+    margin-left: 7px;
+    margin-top: 9px;
+}

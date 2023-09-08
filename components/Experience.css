@@ -1,0 +1,96 @@
+.title h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    font-size: 48px;
+}
+.title h4{
+    margin-left: 400px;
+    margin-top: 50px;
+    color: grey;
+    width: 730px;
+    font-weight: 300;
+}
+
+
+.exp-1{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border: 1px solid rgb(190, 187, 187);
+}
+.exp-2{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border: 1px solid rgb(190, 187, 187);
+}
+.exp-3{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border: 1px solid rgb(190, 187, 187);
+}
+.exp{
+    display: flex;
+}
+.exp-1 h1{
+    font-size: 24px;
+   color: grey;
+   padding-left: 80px;
+   padding-top: 30px;
+}
+.exp-1 p{
+    color: grey;
+    padding-left: 70px;
+    padding-top: 10px;
+}
+.exp-2 h1{
+    font-size: 24px;
+   color: grey;
+   padding-left: 70px;
+   padding-top: 30px;
+}
+.exp-2 p{
+    color: grey;
+    padding-left: 70px;
+    padding-top: 10px;
+}
+.exp-3 h1{
+    font-size: 24px;
+   color: grey;
+   padding-left: 60px;
+   padding-top: 30px;
+}
+.exp-3 p{
+    color: grey;
+    padding-left: 70px;
+    padding-top: 10px;
+}
+
+.exp-1-icon img{
+    height: 70px;
+    width: 70px;
+    padding-left: 120px;
+    padding-top: 10px;
+}
+.exp-2-icon img{
+    height: 70px;
+    width: 70px;
+    padding-left: 120px;
+    padding-top: 10px;
+}
+.exp-3-icon img{
+    height: 70px;
+    width: 70px;
+    padding-left: 120px;
+    padding-top: 10px;
+}

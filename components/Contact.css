@@ -1,0 +1,114 @@
+.contact h1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    margin-top: 200px;
+}
+
+
+.contact-1{
+    margin-left: 600px;
+    width: 250px;
+    height: 180px;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border: 1px solid rgb(190, 187, 187);
+}
+
+.contact-1-icon{
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #ffb400;
+    margin-top: 20px;
+    margin-left: 110px;
+}
+.contact-1-icon span{
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+.n-m{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.n-m-0{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-2{
+    margin-left: 600px;
+    width: 250px;
+    height: 180px;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border: 1px solid rgb(190, 187, 187);
+}
+.contact-2-icon span{
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+.contact-2-icon{
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #ffb400;
+    margin-top: 20px;
+    margin-left: 110px;
+}
+
+.n-m-1{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.n-m-2{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-3{
+    margin-left: 600px;
+    width: 250px;
+    height: 180px;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border: 1px solid rgb(190, 187, 187);
+}
+
+.contact-3-icon{
+    margin-top: 20px;
+    margin-left: 110px;
+}
+
+.n-m-1{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.n-m-2{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}

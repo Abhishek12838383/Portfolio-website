@@ -1,0 +1,95 @@
+.education h1{
+    font-size: 48px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.education h4{
+    margin-left: 400px;
+    margin-top: 50px;
+    color: grey;
+    width: 730px;
+    font-weight: 300;
+}
+.edu-1{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border: 1px solid rgb(190, 187, 187);
+}
+.edu-2{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border: 1px solid rgb(190, 187, 187);
+}
+.edu-3{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border: 1px solid rgb(190, 187, 187);
+}
+
+.edu{
+    display: flex;
+}
+.edu-1-icon img{
+    height: 30px;
+    width: 30px;
+}
+.edu-1 h1{
+    font-size: 14px;
+   color: grey;
+   padding-left: 10px;
+   padding-top: 30px;
+}
+.edu-1 p{
+    color: grey;
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.edu-1 h5{
+    padding-left: 130px;
+    font-size: 14px;
+   color: grey;
+}
+.edu-2 h1{
+    font-size: 14px;
+   color: grey;
+   padding-left: 10px;
+   padding-top: 30px;
+}
+.edu-2 p{
+    color: grey;
+    padding-left: 70px;
+    padding-top: 10px;
+}
+.edu-2 h5{
+    padding-left: 130px;
+    font-size: 14px;
+   color: grey;
+}
+.edu-3 h1{
+    font-size: 14px;
+   color: grey;
+   padding-left: 10px;
+   padding-top: 30px;
+}
+.edu-3 h5{
+    padding-left: 130px;
+    font-size: 14px;
+   color: grey;
+}
+.edu-3 p{
+    color: grey;
+    padding-left: 70px;
+    padding-top: 10px;
+}
